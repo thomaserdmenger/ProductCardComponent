@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Site URL: ](https://thomaserdmenger.github.io/ProductCardComponent/)
+- [Live Site](https://thomaserdmenger.github.io/ProductCardComponent/)
 
 ## My process
 
